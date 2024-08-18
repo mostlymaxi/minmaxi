@@ -9,6 +9,6 @@ for example:
 the winner is the one that has the largest product of a, b, and c:
 a x b x c
 
-please give me your answer in base 10 (scientific notation is okay)
+please give me your answer in base 10 (scientific notation is NOT okay)
 
 
