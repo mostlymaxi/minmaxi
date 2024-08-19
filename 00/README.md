@@ -11,4 +11,5 @@ a x b x c
 
 please give me your answer in base 10 (scientific notation is NOT okay)
 
+[submission form](https://forms.gle/6DFeLkGSjQKkZanr9) - closes 12:00pm EDT (4:00pm UTC)
 
